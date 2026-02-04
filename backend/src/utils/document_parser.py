@@ -60,3 +60,4 @@ class DocumentParser:
         else:
             raise ValueError(f"Unsupported file format: {extension}")
 
+

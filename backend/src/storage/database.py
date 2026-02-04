@@ -40,3 +40,4 @@ class Database:
         # TODO: Implement answer retrieval logic
         raise NotImplementedError
 
+

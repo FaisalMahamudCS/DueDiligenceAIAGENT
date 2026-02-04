@@ -39,4 +39,3 @@ class VectorStore:
         """Search for similar embeddings."""
         # TODO: Implement similarity search logic
         raise NotImplementedError
-

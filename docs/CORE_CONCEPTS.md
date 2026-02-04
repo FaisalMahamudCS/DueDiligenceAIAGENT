@@ -3,7 +3,7 @@
 ## 1. Questionnaire Parsing
 
 ### What It Is
-Converting a PDF questionnaire into a structured database of questions.
+Converting a PDF questionnaire into a structured database of questions.AI agent will answer based on PDF embedding
 
 ### Simple Analogy
 Like converting a paper form into a spreadsheet where each row is a question.
