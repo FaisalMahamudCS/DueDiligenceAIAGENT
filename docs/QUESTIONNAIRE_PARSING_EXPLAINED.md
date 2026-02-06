@@ -248,10 +248,10 @@ def extract_questions(section_text):
 ## Why This Matters
 
 Once parsed, the system can:
-- ✅ Generate answers for each question automatically
-- ✅ Track which questions have been answered
-- ✅ Organize answers by section
-- ✅ Reference questions by ID (not just text)
+-  Generate answers for each question automatically
+-  Track which questions have been answered
+-  Organize answers by section
+-  Reference questions by ID (not just text)
 
 ## Visual Flow
 
@@ -283,4 +283,3 @@ Ready for Answer Generation
 - Process: Extract text → Find sections → Extract questions → Structure data
 - Output: Database of questions organized by sections
 - Purpose: Enable automated answer generation for each question
-

@@ -95,10 +95,10 @@
 - Both answers preserved for comparison
 
 **Acceptance Criteria**:
-- ✅ Status transitions work correctly
-- ✅ Manual answer text stored
-- ✅ AI answer text preserved
-- ✅ Both answers accessible for evaluation
+-  Status transitions work correctly
+-  Manual answer text stored
+-  AI answer text preserved
+-  Both answers accessible for evaluation
 
 #### Scenario 5: Evaluation Framework
 
@@ -119,10 +119,10 @@
 - Report includes aggregate statistics
 
 **Acceptance Criteria**:
-- ✅ Evaluation completes without errors
-- ✅ Scores are between 0.0 and 1.0
-- ✅ Explanations provided for each answer
-- ✅ Aggregate statistics calculated correctly
+-  Evaluation completes without errors
+-  Scores are between 0.0 and 1.0
+-  Explanations provided for each answer
+-  Aggregate statistics calculated correctly
 
 ## QA Checklist
 
@@ -299,5 +299,3 @@
 - Update LLM prompts based on results
 - Refine confidence calculation
 - Improve citation extraction
-
-
